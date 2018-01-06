@@ -1,0 +1,25 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "basics of express",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "nodemon": "^1.14.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikitaShah1/express-basics.git"
+  },
+  "author": "Nikita Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikitaShah1/express-basics/issues"
+  },
+  "homepage": "https://github.com/NikitaShah1/express-basics#readme"
+}
